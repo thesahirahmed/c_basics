@@ -1,1 +1,8 @@
+Enter your age: Congrats!!! You can vote.
 
+Vote for your party from the menu:
+1. India
+2. NDA
+3. Others
+
+You voted for Others
