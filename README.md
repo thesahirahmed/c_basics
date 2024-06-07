@@ -28,16 +28,13 @@ This repository is dedicated to helping beginners learn C++ programming basics i
 3. Open any C++ file using a text editor or an IDE.
 4. Compile and run the program using your preferred compiler or IDE.
 
-## 🎬 Interactive GIF
-
-
-
 ## 📂 Contents
 
 - `basic_i_o_code-1.cpp`: Illustrates basic input/output operations.
 - `namespace_code-2.cpp`: Demonstrates the usage of namespaces.
 - `cout_cin_code-3.cpp`: Example code demonstrating input and output using `cin` and `cout` in C++.
 - `data_type_code-4.cpp`: Example code demonstrating different data types in C++.
+- `if_else_code-5.cpp`: Example code demonstrating if-else statements in C++ also use of switch keyword.
 - `...`: Coming.
 
 ## 🤝 Contributing
