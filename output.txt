@@ -1,3 +1,0 @@
-Hi Viewers, we have used 
-namespace std, to avoid 
-multiple entry of using std !!!
