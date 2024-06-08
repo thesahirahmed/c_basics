@@ -34,8 +34,10 @@ This repository is dedicated to helping beginners learn C++ programming basics i
 - `namespace_code-2.cpp`: Demonstrates the usage of namespaces.
 - `cout_cin_code-3.cpp`: Example code demonstrating input and output using `cin` and `cout` in C++.
 - `data_type_code-4.cpp`: Example code demonstrating different data types in C++.
-- `if_else_code-5.cpp`: Example code demonstrating if-else statements in C++ also use of switch keyword.
-- `...`: Coming.
+- `if_else_code-5.cpp`: Example code demonstrating if-else statements and the use of the switch keyword in C++.
+- `array_code-6.cpp`: Example code demonstrating array usage in C++.
+- `do_while_code-7.cpp`: Example code demonstrating the do-while loop in C++.
+- `...`: Coming soon.
 
 ## 🤝 Contributing
 
