@@ -30,14 +30,18 @@ This repository is dedicated to helping beginners learn C++ programming basics i
 
 ## 📂 Contents
 
-- `basic_i_o_code-1.cpp`: Illustrates basic input/output operations.
-- `namespace_code-2.cpp`: Demonstrates the usage of namespaces.
-- `cout_cin_code-3.cpp`: Example code demonstrating input and output using `cin` and `cout` in C++.
-- `data_type_code-4.cpp`: Example code demonstrating different data types in C++.
-- `if_else_code-5.cpp`: Example code demonstrating if-else statements and the use of the switch keyword in C++.
-- `array_code-6.cpp`: Example code demonstrating array usage in C++.
+- `basic_i_o_code-1.cpp`: Illustrates basic input/output operations, showcasing how to use `cin` and `cout` for reading and writing data.
+- `namespace_code-2.cpp`: Demonstrates the usage of namespaces, explaining how to avoid naming conflicts and organize code.
+- `cout_cin_code-3.cpp`: Example code demonstrating input and output using `cin` and `cout` in C++, including formatted input/output.
+- `data_type_code-4.cpp`: Example code demonstrating different data types in C++, such as `int`, `float`, `double`, `char`, and `bool`.
+- `if_else_code-5.cpp`: Example code demonstrating if-else statements and the use of the switch keyword in C++ for conditional logic.
+- `array_code-6.cpp`: Example code demonstrating array usage in C++, including initialization, accessing elements, and basic operations.
 - `do_while_code-7.cpp`: Example code demonstrating the do-while loop in C++.
-- `...`: Coming soon.
+- `string_code-8.cpp`: Example code demonstrating string operations in C++, such as concatenation, comparison, and length calculation.
+- `for_loop_code-9.cpp`: Example code demonstrating the use of for loops in C++ for iterating over arrays and ranges.
+- `pointers_code-10.cpp`: Example code demonstrating the use of pointers in C++, including pointer arithmetic and memory addresses.
+- `function_code-11.cpp`: Example code demonstrating functions in C++.
+- `...`
 
 ## 🤝 Contributing
 
