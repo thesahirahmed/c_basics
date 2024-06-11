@@ -41,7 +41,7 @@ This repository is dedicated to helping beginners learn C++ programming basics i
 - `for_loop_code-9.cpp`: Example code demonstrating the use of for loops in C++ for iterating over arrays and ranges.
 - `pointers_code-10.cpp`: Example code demonstrating the use of pointers in C++, including pointer arithmetic and memory addresses.
 - `function_code-11.cpp`: Example code demonstrating functions in C++.
-- `...`
+- `....`
 
 ## 🤝 Contributing
 
