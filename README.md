@@ -10,7 +10,7 @@ Welcome to this repo, your one-stop destination to build a strong foundation in 
 
 This repository is dedicated to helping beginners learn C++ programming basics in a concise and interactive manner. Each code file includes proper comments explaining every block of code, making it easier for learners to understand.
 
-## 📝 How to Use
+## 📝 How to Use...
 
 ### Understanding `input.txt` and `output.txt`
 
